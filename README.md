@@ -1,7 +1,7 @@
-# 🐶 PerretesApp
+# 🐶 PerreteAPI
 
 ## 🧩 Descripción del proyecto
-**PerretesApp** es un proyecto de práctica desarrollado con **.NET 8**, siguiendo una arquitectura **Clean + CQRS (Command Query Responsibility Segregation)**.  
+**PerretesAPI** es un proyecto de práctica desarrollado con **.NET 8**, siguiendo una arquitectura **Clean + CQRS (Command Query Responsibility Segregation)**.  
 El objetivo es gestionar entidades llamadas **Perretes**, permitiendo crear, consultar, actualizar y listar registros desde un frontend construido con **Blazor WebAssembly** y **MudBlazor**.
 
 Este proyecto sirve como ejemplo de aplicación **modular, mantenible y escalable**, separando de forma clara las responsabilidades entre capas de dominio, infraestructura y presentación.
