@@ -1,0 +1,8 @@
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI\obj\Debug\net8.0\PerreteAPI.csproj.AssemblyReference.cache
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI\obj\Debug\net8.0\PerreteAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI\obj\Debug\net8.0\PerreteAPI.AssemblyInfoInputs.cache
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI\obj\Debug\net8.0\PerreteAPI.AssemblyInfo.cs
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI\obj\Debug\net8.0\PerreteAPI.csproj.CoreCompileInputs.cache
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI\obj\Debug\net8.0\PerreteAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI\obj\Debug\net8.0\PerreteAPI.MvcApplicationPartsAssemblyInfo.cache

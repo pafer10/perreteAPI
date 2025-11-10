@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "PerreteAPI.Controllers.PerreteController",
+    "Method": "CreatePerreteAsync",
+    "RelativePath": "perretes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "PerreteAPI.Features.Perretes.Create.CreatePerreteCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PerreteAPI.Controllers.PerreteController",
+    "Method": "GetPerreteAsync",
+    "RelativePath": "perretes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PerreteAPI.Controllers.PerreteController",
+    "Method": "UpdatePerreteAsync",
+    "RelativePath": "perretes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "command",
+        "Type": "PerreteAPI.Features.Perretes.Update.UpdatePerreteCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PerreteAPI.Controllers.PerreteController",
+    "Method": "GetAllPerretesAsync",
+    "RelativePath": "perretes/todos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

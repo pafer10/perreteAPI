@@ -1,0 +1,5 @@
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteBlazor\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteBlazor\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteBlazor\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteBlazor\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteBlazor\obj\Debug\net8.0\staticwebassets.build.json

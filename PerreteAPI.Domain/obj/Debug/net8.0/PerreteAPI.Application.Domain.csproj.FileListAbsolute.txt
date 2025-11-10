@@ -1,0 +1,11 @@
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Domain\bin\Debug\net8.0\PerreteAPI.Application.Domain.deps.json
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Domain\bin\Debug\net8.0\PerreteAPI.Application.Domain.dll
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Domain\bin\Debug\net8.0\PerreteAPI.Application.Domain.pdb
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Domain\obj\Debug\net8.0\PerreteAPI.Application.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Domain\obj\Debug\net8.0\PerreteAPI.Application.Domain.AssemblyInfoInputs.cache
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Domain\obj\Debug\net8.0\PerreteAPI.Application.Domain.AssemblyInfo.cs
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Domain\obj\Debug\net8.0\PerreteAPI.Application.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Domain\obj\Debug\net8.0\PerreteAPI.Application.Domain.dll
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Domain\obj\Debug\net8.0\refint\PerreteAPI.Application.Domain.dll
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Domain\obj\Debug\net8.0\PerreteAPI.Application.Domain.pdb
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Domain\obj\Debug\net8.0\ref\PerreteAPI.Application.Domain.dll

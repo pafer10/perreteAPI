@@ -1,0 +1,6 @@
+@PerreteAPI_HostAddress = http://localhost:5212
+
+GET {{PerreteAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

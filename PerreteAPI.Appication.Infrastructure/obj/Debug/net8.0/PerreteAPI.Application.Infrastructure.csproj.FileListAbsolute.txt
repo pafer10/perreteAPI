@@ -1,0 +1,15 @@
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Appication.Infrastructure\obj\Debug\net8.0\PerreteAPI.Application.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Appication.Infrastructure\obj\Debug\net8.0\PerreteAPI.Application.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Appication.Infrastructure\obj\Debug\net8.0\PerreteAPI.Application.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Appication.Infrastructure\obj\Debug\net8.0\PerreteAPI.Application.Infrastructure.AssemblyInfo.cs
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Appication.Infrastructure\obj\Debug\net8.0\PerreteAPI.Application.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Appication.Infrastructure\bin\Debug\net8.0\PerreteAPI.Application.Infrastructure.deps.json
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Appication.Infrastructure\bin\Debug\net8.0\PerreteAPI.Application.Infrastructure.dll
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Appication.Infrastructure\bin\Debug\net8.0\PerreteAPI.Application.Infrastructure.pdb
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Appication.Infrastructure\bin\Debug\net8.0\PerreteAPI.Domain.dll
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Appication.Infrastructure\bin\Debug\net8.0\PerreteAPI.Domain.pdb
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Appication.Infrastructure\obj\Debug\net8.0\PerreteA.1C1F4DF3.Up2Date
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Appication.Infrastructure\obj\Debug\net8.0\PerreteAPI.Application.Infrastructure.dll
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Appication.Infrastructure\obj\Debug\net8.0\refint\PerreteAPI.Application.Infrastructure.dll
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Appication.Infrastructure\obj\Debug\net8.0\PerreteAPI.Application.Infrastructure.pdb
+C:\Users\PaulaFernandezLopez\Desktop\PerreteAPI\PerreteAPI.Appication.Infrastructure\obj\Debug\net8.0\ref\PerreteAPI.Application.Infrastructure.dll

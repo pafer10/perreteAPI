@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{047A2CA4-0781-4119-85DF-FBB269BF50F0}|PerreteAPI\\Perrete.API.csproj|c:\\users\\paulafernandezlopez\\desktop\\perreteapi\\perreteapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{047A2CA4-0781-4119-85DF-FBB269BF50F0}|PerreteAPI\\Perrete.API.csproj|solutionrelative:perreteapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047A2CA4-0781-4119-85DF-FBB269BF50F0}|PerreteAPI\\Perrete.API.csproj|c:\\users\\paulafernandezlopez\\desktop\\perreteapi\\perreteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047A2CA4-0781-4119-85DF-FBB269BF50F0}|PerreteAPI\\Perrete.API.csproj|solutionrelative:perreteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047A2CA4-0781-4119-85DF-FBB269BF50F0}|PerreteAPI\\Perrete.API.csproj|c:\\users\\paulafernandezlopez\\desktop\\perreteapi\\perreteapi\\controllers\\perretecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047A2CA4-0781-4119-85DF-FBB269BF50F0}|PerreteAPI\\Perrete.API.csproj|solutionrelative:perreteapi\\controllers\\perretecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047A2CA4-0781-4119-85DF-FBB269BF50F0}|PerreteAPI\\Perrete.API.csproj|c:\\users\\paulafernandezlopez\\desktop\\perreteapi\\perreteapi\\features\\perretes\\get\\getall\\getallperretesqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047A2CA4-0781-4119-85DF-FBB269BF50F0}|PerreteAPI\\Perrete.API.csproj|solutionrelative:perreteapi\\features\\perretes\\get\\getall\\getallperretesqueryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047A2CA4-0781-4119-85DF-FBB269BF50F0}|PerreteAPI\\Perrete.API.csproj|c:\\users\\paulafernandezlopez\\desktop\\perreteapi\\perreteapi\\features\\perretes\\get\\getall\\getallperretesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047A2CA4-0781-4119-85DF-FBB269BF50F0}|PerreteAPI\\Perrete.API.csproj|solutionrelative:perreteapi\\features\\perretes\\get\\getall\\getallperretesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047A2CA4-0781-4119-85DF-FBB269BF50F0}|PerreteAPI\\Perrete.API.csproj|c:\\users\\paulafernandezlopez\\desktop\\perreteapi\\perreteapi\\features\\perretes\\get\\getall\\getallperretesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{047A2CA4-0781-4119-85DF-FBB269BF50F0}|PerreteAPI\\Perrete.API.csproj|solutionrelative:perreteapi\\features\\perretes\\get\\getall\\getallperretesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A194BC4-215F-4C88-832E-2F6B157E0007}|PerreteAPI.Appication.Infrastructure\\PerreteAPI.Application.Infrastructure.csproj|c:\\users\\paulafernandezlopez\\desktop\\perreteapi\\perreteapi.appication.infrastructure\\repositories\\perreterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A194BC4-215F-4C88-832E-2F6B157E0007}|PerreteAPI.Appication.Infrastructure\\PerreteAPI.Application.Infrastructure.csproj|solutionrelative:perreteapi.appication.infrastructure\\repositories\\perreterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A194BC4-215F-4C88-832E-2F6B157E0007}|PerreteAPI.Appication.Infrastructure\\PerreteAPI.Application.Infrastructure.csproj|c:\\users\\paulafernandezlopez\\desktop\\perreteapi\\perreteapi.appication.infrastructure\\repositories\\iperreterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A194BC4-215F-4C88-832E-2F6B157E0007}|PerreteAPI.Appication.Infrastructure\\PerreteAPI.Application.Infrastructure.csproj|solutionrelative:perreteapi.appication.infrastructure\\repositories\\iperreterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllPerretesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\PerreteAPI\\Features\\Perretes\\Get\\GetAll\\GetAllPerretesQuery.cs",
+              "RelativeDocumentMoniker": "PerreteAPI\\Features\\Perretes\\Get\\GetAll\\GetAllPerretesQuery.cs",
+              "ToolTip": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\PerreteAPI\\Features\\Perretes\\Get\\GetAll\\GetAllPerretesQuery.cs",
+              "RelativeToolTip": "PerreteAPI\\Features\\Perretes\\Get\\GetAll\\GetAllPerretesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:30:04.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PerreteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\PerreteAPI.Appication.Infrastructure\\Repositories\\PerreteRepository.cs",
+              "RelativeDocumentMoniker": "PerreteAPI.Appication.Infrastructure\\Repositories\\PerreteRepository.cs",
+              "ToolTip": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\PerreteAPI.Appication.Infrastructure\\Repositories\\PerreteRepository.cs",
+              "RelativeToolTip": "PerreteAPI.Appication.Infrastructure\\Repositories\\PerreteRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:20:17.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PerreteController.cs",
+              "DocumentMoniker": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\PerreteAPI\\Controllers\\PerreteController.cs",
+              "RelativeDocumentMoniker": "PerreteAPI\\Controllers\\PerreteController.cs",
+              "ToolTip": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\PerreteAPI\\Controllers\\PerreteController.cs",
+              "RelativeToolTip": "PerreteAPI\\Controllers\\PerreteController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAcwEEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:19:54.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPerreteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\PerreteAPI.Appication.Infrastructure\\Repositories\\IPerreteRepository.cs",
+              "RelativeDocumentMoniker": "PerreteAPI.Appication.Infrastructure\\Repositories\\IPerreteRepository.cs",
+              "ToolTip": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\PerreteAPI.Appication.Infrastructure\\Repositories\\IPerreteRepository.cs",
+              "RelativeToolTip": "PerreteAPI.Appication.Infrastructure\\Repositories\\IPerreteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T21:15:26.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\PerreteAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PerreteAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\PerreteAPI\\Program.cs",
+              "RelativeToolTip": "PerreteAPI\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwEUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T21:47:49.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\PerreteAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PerreteAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\PerreteAPI\\appsettings.json",
+              "RelativeToolTip": "PerreteAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T22:09:31.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllPerretesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\PerreteAPI\\Features\\Perretes\\Get\\GetAll\\GetAllPerretesQueryHandler.cs",
+              "RelativeDocumentMoniker": "PerreteAPI\\Features\\Perretes\\Get\\GetAll\\GetAllPerretesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\PerreteAPI\\Features\\Perretes\\Get\\GetAll\\GetAllPerretesQueryHandler.cs",
+              "RelativeToolTip": "PerreteAPI\\Features\\Perretes\\Get\\GetAll\\GetAllPerretesQueryHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:30:18.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllPerretesQueryValidator.cs",
+              "DocumentMoniker": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\PerreteAPI\\Features\\Perretes\\Get\\GetAll\\GetAllPerretesQueryValidator.cs",
+              "RelativeDocumentMoniker": "PerreteAPI\\Features\\Perretes\\Get\\GetAll\\GetAllPerretesQueryValidator.cs",
+              "ToolTip": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\PerreteAPI\\Features\\Perretes\\Get\\GetAll\\GetAllPerretesQueryValidator.cs",
+              "RelativeToolTip": "PerreteAPI\\Features\\Perretes\\Get\\GetAll\\GetAllPerretesQueryValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T10:30:33.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
