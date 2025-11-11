@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{047A2CA4-0781-4119-85DF-FBB269BF50F0}|PerreteAPI\\Perrete.API.csproj|c:\\users\\paulafernandezlopez\\desktop\\perreteapi\\perreteapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{047A2CA4-0781-4119-85DF-FBB269BF50F0}|PerreteAPI\\Perrete.API.csproj|solutionrelative:perreteapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{047A2CA4-0781-4119-85DF-FBB269BF50F0}|PerreteAPI\\Perrete.API.csproj|c:\\users\\paulafernandezlopez\\desktop\\perreteapi\\perreteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{047A2CA4-0781-4119-85DF-FBB269BF50F0}|PerreteAPI\\Perrete.API.csproj|solutionrelative:perreteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{047A2CA4-0781-4119-85DF-FBB269BF50F0}|PerreteAPI\\Perrete.API.csproj|c:\\users\\paulafernandezlopez\\desktop\\perreteapi\\perreteapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{047A2CA4-0781-4119-85DF-FBB269BF50F0}|PerreteAPI\\Perrete.API.csproj|solutionrelative:perreteapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{047A2CA4-0781-4119-85DF-FBB269BF50F0}|PerreteAPI\\Perrete.API.csproj|c:\\users\\paulafernandezlopez\\desktop\\perreteapi\\perreteapi\\controllers\\perretecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,25 +98,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\PerreteAPI\\Program.cs",
               "RelativeDocumentMoniker": "PerreteAPI\\Program.cs",
               "ToolTip": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\PerreteAPI\\Program.cs",
               "RelativeToolTip": "PerreteAPI\\Program.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAcwEUAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T21:47:49.127Z"
+              "WhenOpened": "2025-11-07T21:47:49.127Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\PerreteAPI\\appsettings.json",
               "RelativeDocumentMoniker": "PerreteAPI\\appsettings.json",
               "ToolTip": "C:\\Users\\PaulaFernandezLopez\\Desktop\\PerreteAPI\\PerreteAPI\\appsettings.json",
               "RelativeToolTip": "PerreteAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-11-07T22:09:31.064Z",
               "EditorCaption": ""
